@@ -29,5 +29,11 @@ namespace ApiDotNet8.Controllers
             })
             .ToArray();
         }
+
+        [Route("{id}")]
+        public IEnumerable<int> Get(int id)
+        {
+            return Enumerable.Range(0, (id+1)).ToArray();
+        }
     }
 }

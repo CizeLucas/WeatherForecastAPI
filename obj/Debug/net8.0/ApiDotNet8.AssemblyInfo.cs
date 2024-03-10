@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiDotNet8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80e06d76a9e9ff1a0e09e1e70710073f47d5d73b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96055a66cb91a508100661f474eb7755badfb69a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiDotNet8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiDotNet8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

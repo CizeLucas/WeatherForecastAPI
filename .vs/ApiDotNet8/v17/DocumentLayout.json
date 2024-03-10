@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
               "ToolTip": "N:\\dev\\dev_CSharp\\ApiDotNet8\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA3wBAAAAAJAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAABCwBAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T20:06:39.029Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T20:06:28.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T20:06:28.654Z"
             }
           ]
         }

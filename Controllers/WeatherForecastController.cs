@@ -33,7 +33,7 @@ namespace ApiDotNet8.Controllers
         [Route("{id}")]
         public IEnumerable<int> Get(int id)
         {
-            return Enumerable.Range(0, (id+1)).ToArray();
+            return Enumerable.Range(0, (id)).ToArray();
         }
     }
 }

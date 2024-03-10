@@ -19,8 +19,8 @@ jobs:
       - name: Set up .NET Core
         uses: actions/setup-dotnet@v1
         with:
-          dotnet-version: '8.0'
-          include-prerelease: false
+          dotnet-version: '3.1'
+          include-prerelease: true
 
       - name: Build with dotnet
         run: dotnet build --configuration Release
@@ -54,4 +54,4 @@ jobs:
           app-name: 'WeatherForecastsAPI'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1AAF23087B9F48398975A2542673DBD6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7FA5D51391A54D83A2C50B4AD5D94D5A }}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiDotNet8.props" />
+</Project>

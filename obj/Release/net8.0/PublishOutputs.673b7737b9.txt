@@ -1,0 +1,11 @@
+N:\dev\dev_CSharp\ApiDotNet8\obj\Release\net8.0\PubTmp\Out\ApiDotNet8.exe
+N:\dev\dev_CSharp\ApiDotNet8\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+N:\dev\dev_CSharp\ApiDotNet8\obj\Release\net8.0\PubTmp\Out\appsettings.json
+N:\dev\dev_CSharp\ApiDotNet8\obj\Release\net8.0\PubTmp\Out\ApiDotNet8.dll
+N:\dev\dev_CSharp\ApiDotNet8\obj\Release\net8.0\PubTmp\Out\ApiDotNet8.deps.json
+N:\dev\dev_CSharp\ApiDotNet8\obj\Release\net8.0\PubTmp\Out\ApiDotNet8.runtimeconfig.json
+N:\dev\dev_CSharp\ApiDotNet8\obj\Release\net8.0\PubTmp\Out\ApiDotNet8.pdb
+N:\dev\dev_CSharp\ApiDotNet8\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+N:\dev\dev_CSharp\ApiDotNet8\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+N:\dev\dev_CSharp\ApiDotNet8\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+N:\dev\dev_CSharp\ApiDotNet8\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
